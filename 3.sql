@@ -1,4 +1,4 @@
-#3)
+#3 QUE)
 DROP DATABASE IF EXISTS hospital;
 
 CREATE DATABASE hospital;
