@@ -1,4 +1,4 @@
-#5)
+#6)
 DROP DATABASE IF EXISTS product;
 
 CREATE DATABASE product;
